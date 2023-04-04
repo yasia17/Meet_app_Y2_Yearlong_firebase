@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017085630205",
+    "project_id": "meet-app-y2-yearlong",
+    "storage_bucket": "meet-app-y2-yearlong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017085630205:android:a78b0ee0b8bee26d4dd094",
+        "android_client_info": {
+          "package_name": "com.example.meet_app_y2_yearlong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017085630205-p70prcucs6ss19etjvql0b5j5abmj85t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BZKC-Ddq4wGaezwgrdZSfT-BuOj7dJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017085630205-p70prcucs6ss19etjvql0b5j5abmj85t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
